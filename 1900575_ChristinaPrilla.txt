@@ -1,0 +1,29 @@
+Saya Christina Prilla mengerjakan Tugas Praktikum 2 DPBO dan untuk keberkahannya 
+maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan
+
+Note : jika data pada tabel tidak muncul, klik button lain terlebih dahulu baru 
+       klik button tabel kembali
+
+Kesulitan yang saya alami ketika mengerjakan TP 2 ini adalah :
+- Saat mengkoneksikan library untuk mengkoneksikan form dengan database
+- Terjadi error karena kesalahan penggunaan library mysql dan derby, 
+  yang membuat kelas yang digunakan tertukar. Saya sempat menggunakan kelas dari
+  library derby padahal awalnya menggunakan mysql. Hal ini disebabkan karena warning
+  error dari netbeans memberi tahu saya untuk mengimport library derby, tetapi setelah
+  mengetahui bahwa ada kesalahan, saya segera mengganti kelasnya.
+- Mengatur resolusi gambar. Pada netbeans ini, pengaturan resolusi gambarnya cukup sulit.
+  Saya harus mengecilkan resolusi gambarnya untuk dapat membuat gambarnya penuh seutuhnya.
+- Harus beradaptasi kembali dengan netbeans dan tools-toolsnya.
+
+Apa yang saya pelajari :
+- Mengkoneksikan file java ini ke database dan menampilkannya dalam form
+- Kegunaan dari library-library yang saya gunakan
+- Membuat desain di netbeans
+- Menampilkan foto
+
+Fitur yang sudah dikerjakan :
+- Membuat desain yang berbeda
+- Form : ketika textField ada yang kosong data tidak akan ditambahkan dan juga dapat 
+         menambahkan data ke database
+- Tabel : menampilkan data dari database
+- Info : menampilkan data diri mahasiswa dan foto
